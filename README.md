@@ -276,4 +276,6 @@ for i in range(len(l)):
 from sklearn import metrics
 
 print("Performance of Sequential algorithm : ",metrics.silhouette_score(X,data['Label_Seq']))
-print("Performance of Parallel algorithm : ",metrics.silhouette_score(X,data['Label_Par'])) 
+print("Performance of Parallel algorithm : ",metrics.silhouette_score(X,data['Label_Par']))
+
+
