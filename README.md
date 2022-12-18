@@ -203,7 +203,7 @@ def custom_kmeans(n_clusters, data, factor=15, maxIter=1000, metric='squared_dis
   return new_centro, assigned_clusters
   
   
-##COMPARISON
+Comparison
 
 
 data = pd.read_csv(input)
