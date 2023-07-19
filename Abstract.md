@@ -2,7 +2,7 @@ Parallelizing K-Means Based Clustering using PySpark
 
 Objective:
 
-The major goal of the project is to develop a K-means-based clustering algorithm in parallel at each step in order to reduce run time and achieve maximum accuracy in assigning cluster labels to data points (i.e. grouping/clustering similar data points and separating dis-similar data points).
+The primary objective of this project is to design a parallel K-means clustering algorithm. By implementing parallel processing at each step, the aim is to minimize runtime while maximizing accuracy in assigning cluster labels to data points. This involves effectively grouping similar data points and separating dissimilar ones for efficient clustering.
 
 Work Done:
 
