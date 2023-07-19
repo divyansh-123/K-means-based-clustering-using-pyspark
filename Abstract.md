@@ -25,7 +25,7 @@ Final Outcomes:
 
 Clustering results(Sequentia(left)l and parallel(right))
 
-![](Aspose.Words.4a3d33ae-2f70-4eaa-98a8-30751e168e7e.001.png) ![](Aspose.Words.4a3d33ae-2f70-4eaa-98a8-30751e168e7e.002.png)
+![](Result1.png) ![](Result2.png)
 
 Link to git repository:[https://github.com/divyansh-123/K-means-based-clustering-using-pyspark/blob/main/README. md](https://github.com/divyansh-123/K-means-based-clustering-using-pyspark/blob/main/README.md)
 
