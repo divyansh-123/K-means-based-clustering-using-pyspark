@@ -1,5 +1,3 @@
-﻿IT-494 (Group-7)
-
 Parallelizing K-Means Based Clustering using PySpark
 
 Objective:
